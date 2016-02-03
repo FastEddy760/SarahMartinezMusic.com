@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+	<meta content="width=device-width, initial-scale=1" name="viewport" />
+	<meta content="Violin &amp; Piano Lessons, 13 Years Experience" name="description" />
+	<meta content="Sarah Martinez" name="author" />
+	<meta content="Hugo 0.15-DEV" name="generator" />
+	<title>Sarah Martinez Music</title>
+	<!-- Bootstrap Core CSS -->
+	<link href="http://sarahmartinezmusic.com/css/bootstrap.min.css" rel="stylesheet" /><!-- Custom CSS -->
+	<link href="http://sarahmartinezmusic.com/css/agency.css" rel="stylesheet" /><!-- Custom Fonts -->
+	<link href="http://sarahmartinezmusic.com/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" /><!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --><!-- WARNING: Respond.js doesn't work if you view the page via file:// --><!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body class="index" id="page-top"><!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top">
+<div class="container"><!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header page-scroll"><button class="navbar-toggle" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button><a class="navbar-brand page-scroll" href="#page-top">Sarah Martinez Music</a></div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+	<li class="hidden"></li>
+	<li><a class="page-scroll" href="#services">Services</a></li>
+	<li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
+	<li><a class="page-scroll" href="#about">About</a></li>
+	<li></li>
+	<li><a class="page-scroll" href="#contact">Contact</a></li>
+</ul>
+</div>
+<!-- /.navbar-collapse --></div>
+<!-- /.container-fluid --></nav>
+<!-- Hero -->
+
+<header>
+<div class="container">
+<div class="intro-text">
+<div class="intro-lead-in">Violin &amp; Piano Lessons</div>
+
+<div class="intro-heading">Ages 4 to Adult, 13 Years Experience</div>
+<a class="page-scroll btn btn-xl" href="#services">Tell me more</a></div>
+</div>
+</header>
+<!-- Services Section --><!-- Services -->
+
+<section id="services">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 text-center">
+<h2 class="section-heading">Services</h2>
+
+<h3 class="section-subheading text-muted">Teaching Beginners to Advanced.</h3>
+</div>
+</div>
+
+<div class="row text-center">
+<div class="col-md-4">
+<h4 class="service-heading">Violin</h4>
+
+<p class="text-muted">Teachin violin is a passion of mine, to see young students in the early years mature in masters of this instrument of passion.</p>
+</div>
+
+<div class="col-md-4">
+<h4 class="service-heading">Piano</h4>
+
+<p class="text-muted">From as young as 4 years old, we teach proven methods producing a lifetime of skill.</p>
+</div>
+
+<div class="col-md-4">
+<h4 class="service-heading">Pre-instrument</h4>
+
+<p class="text-muted">Developing proper voice skills is essential to advancing in singing arts.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- Portfolio Grid Section -->
+
+<section class="bg-light-gray" id="portfolio">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 text-center">
+<h2 class="section-heading">Portfolio</h2>
+
+<h3 class="section-subheading text-muted">Teaching over thirteen years, we care for the future of your musical passion honing skills, nurtuting talent.</h3>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-4 col-sm-6 portfolio-item">
+<div class="portfolio-hover">
+<div class="portfolio-hover-content"></div>
+</div>
+<a class="portfolio-link" data-toggle="modal" href="#portfolioModal1"><img alt="" class="img-responsive" src="img/portfolio/recital-PREVIEW.jpg" /> </a>
+
+<div class="portfolio-caption">
+<h4>Student Recital</h4>
+
+<p class="text-muted">Recital</p>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-6 portfolio-item">
+<div class="portfolio-hover">
+<div class="portfolio-hover-content"></div>
+</div>
+<a class="portfolio-link" data-toggle="modal" href="#portfolioModal2"><img alt="" class="img-responsive" src="img/portfolio/student-violin-PREVIEW.jpg" /> </a>
+
+<div class="portfolio-caption">
+<h4>Youth Violin</h4>
+
+<p class="text-muted">Violin</p>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-6 portfolio-item">
+<div class="portfolio-hover">
+<div class="portfolio-hover-content"></div>
+</div>
+<a class="portfolio-link" data-toggle="modal" href="#portfolioModal3"><img alt="" class="img-responsive" src="img/portfolio/student-piano-PREVIEW.jpg" /> </a>
+
+<div class="portfolio-caption">
+<h4>Piano</h4>
+
+<p class="text-muted">Piano</p>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-6 portfolio-item">
+<div class="portfolio-hover">
+<div class="portfolio-hover-content"></div>
+</div>
+<a class="portfolio-link" data-toggle="modal" href="#portfolioModal5"><img alt="" class="img-responsive" src="img/portfolio/violin-matthew-PREVIEW.jpg" /> </a>
+
+<div class="portfolio-caption">
+<h4>Advanced Violin</h4>
+
+<p class="text-muted">Violin</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- About Section -->
+
+<section id="about">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 text-center">
+<h2 class="section-heading">About</h2>
+
+<h3 class="section-subheading text-muted">Over thirteen years experince.</h3>
+</div>
+</div>
+
+<div class="row">
+<div class="col-lg-12">
+<ul class="timeline">
+	<li>
+	<div class="timeline-image"><img alt="" class="img-circle img-responsive" src="img/about/1.jpg" /></div>
+
+	<div class="timeline-panel">
+	<div class="timeline-heading">
+	<h4>2009-2011</h4>
+
+	<h4 class="subheading">Our Humble Beginnings</h4>
+	</div>
+
+	<div class="timeline-body">
+	<p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+	</div>
+	</div>
+	</li>
+	<li class="timeline-inverted">
+	<div class="timeline-image"><img alt="" class="img-circle img-responsive" src="img/about/2.jpg" /></div>
+
+	<div class="timeline-panel">
+	<div class="timeline-heading">
+	<h4>March 2008</h4>
+
+	<h4 class="subheading">Suzuki Method</h4>
+	</div>
+
+	<div class="timeline-body">
+	<p class="text-muted">Suzuki method is added into the curriculum allowing. This method helps students to advance at a faster rate while still covering the basics required for lifelong skills.</p>
+	</div>
+	</div>
+	</li>
+	<li>
+	<div class="timeline-image"><img alt="" class="img-circle img-responsive" src="img/about/3.jpg" /></div>
+
+	<div class="timeline-panel">
+	<div class="timeline-heading">
+	<h4>December 2004</h4>
+
+	<h4 class="subheading">Our First Recital</h4>
+	</div>
+
+	<div class="timeline-body">
+	<p class="text-muted">After a growing student base, we had our first student recital at Holy Cross Church facility. Seven students performed for familly and friends showcasing personal music choices and accompimants!</p>
+	</div>
+	</div>
+	</li>
+	<li class="timeline-inverted">
+	<div class="timeline-image"><img alt="" class="img-circle img-responsive" src="img/about/4.jpg" /></div>
+
+	<div class="timeline-panel">
+	<div class="timeline-heading">
+	<h4>July 2002</h4>
+
+	<h4 class="subheading">Graduated Bethany College of Music</h4>
+	</div>
+
+	<div class="timeline-body">
+	<p class="text-muted">After graduating the Bethanky college of music, Sarah began teaching students piano, violin, and voice!</p>
+	</div>
+	</div>
+	</li>
+	<li class="timeline-inverted">
+	<div class="timeline-image">
+	<h4>Be a part<br />
+	of our<br />
+	family!</h4>
+	</div>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<!-- Team Section -->
+
+<section class="bg-light-gray" id="team">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 text-center">
+<h2 class="section-heading">Our amazing team</h2>
+
+<h3 class="section-subheading text-mutedwith ">classically trained, passionatly treaching.</h3>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-4">
+<div class="team-member"><img alt="" class="img-responsive img-circle" src="img/team/Sarah-Headshot.png" />
+<h4>Sarah Martinez</h4>
+
+<p class="text-muted">Lead Instructer</p>
+
+<ul class="list-inline social-buttons">
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-4">
+<div class="team-member"><img alt="" class="img-responsive img-circle" src="img/team/2.jpg" />
+<h4>Stacy Pickens</h4>
+
+<p class="text-muted">Lead Instructer</p>
+
+<ul class="list-inline social-buttons">
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-4">
+<div class="team-member"><img alt="" class="img-responsive img-circle" src="img/team/bingbong-head.jpg" />
+<h4>Bing Bong</h4>
+
+<p class="text-muted">Lead Something</p>
+
+<ul class="list-inline social-buttons">
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2 text-center">
+<p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- Clients Aside -->
+
+<aside class="clients">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6"><a href="#"><img alt="" class="img-responsive img-centered" src="img/logos/envato.jpg" /> </a></div>
+
+<div class="col-md-3 col-sm-6"><a href="#"><img alt="" class="img-responsive img-centered" src="img/logos/designmodo.jpg" /> </a></div>
+
+<div class="col-md-3 col-sm-6"><a href="#"><img alt="" class="img-responsive img-centered" src="img/logos/themeforest.jpg" /> </a></div>
+
+<div class="col-md-3 col-sm-6"><a href="#"><img alt="" class="img-responsive img-centered" src="img/logos/creative-market.jpg" /> </a></div>
+</div>
+</div>
+</aside>
+<!-- Contact Section -->
+
+<section id="contact">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 text-center">
+<h2 class="section-heading">Contact us</h2>
+
+<h3 class="section-subheading text-muted">Schedule an interview with your child and let&#39;s meet.</h3>
+</div>
+</div>
+
+<div class="row">
+<div class="col-lg-12">
+<form action="//formspree.io/sarahmartinezmusic@gmail.com" id="contactForm" method="POST" name="sentMessage" novalidate="">
+<div class="row">
+<div class="col-md-6">
+<div class="form-group"><input class="form-control" data-validation-required-message="Please enter your name." name="name" placeholder="Your Name *" required="" type="text" />
+<p class="help-block text-danger"></p>
+</div>
+
+<div class="form-group"><input class="form-control" data-validation-required-message="Please enter your email address." name="email" placeholder="Your Email *" required="" type="email" />
+<p class="help-block text-danger"></p>
+</div>
+
+<div class="form-group"><input class="form-control" data-validation-required-message="Please enter your phone number." name="phone" placeholder="Your Phone *" required="" type="tel" />
+<p class="help-block text-danger"></p>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="form-group"><textarea class="form-control" data-validation-required-message="Please enter a message." name="message" placeholder="Your Message *" required=""></textarea>
+
+<p class="help-block text-danger"></p>
+</div>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="col-lg-12 text-center">
+<div id="success"></div>
+<button class="btn btn-xl" type="submit">Send message</button></div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</section>
+<!-- Footer section -->
+
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-4"><span class="copyright">Sarah Martinez Music 2016</span></div>
+
+<div class="col-md-4">
+<ul class="list-inline social-buttons">
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+</div>
+
+<div class="col-md-4">
+<ul class="list-inline quicklinks">
+	<li><a href="#">Privacy Policy</a></li>
+	<li><a href="#">Terms of Use</a></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<!-- Portfolio Modals -->
+
+<div aria-hidden="true" class="portfolio-modal modal fade" id="portfolioModal1" role="dialog" tabindex="-1">
+<div class="modal-content">
+<div class="close-modal" data-dismiss="modal">
+<div class="lr">
+<div class="rl"></div>
+</div>
+</div>
+
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2">
+<div class="modal-body">
+<h2>Student Recital</h2>
+
+<p class="item-intro text-muted">Sarah introduces the students at the recital.</p>
+<img alt="" class="img-responsive img-centered" src="img/portfolio/recital.jpg" />
+<p>Student recital at the end of each semester gives students the opportunity to showcase their talent and skills!<br />
+<br />
+<strong>Want these icons in this portfolio item sample?</strong> You can download 60 of them for free, courtesy of <a href="//getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="//getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
+
+<ul class="list-inline">
+	<li>Date: 2014-07-05</li>
+	<li>Client: <a href="#">Start Bootstrap</a></li>
+	<li>Category: Recital</li>
+</ul>
+<button class="btn btn-primary" data-dismiss="modal" type="button">Close project</button></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="portfolio-modal modal fade" id="portfolioModal2" role="dialog" tabindex="-1">
+<div class="modal-content">
+<div class="close-modal" data-dismiss="modal">
+<div class="lr">
+<div class="rl"></div>
+</div>
+</div>
+
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2">
+<div class="modal-body">
+<h2>Youth Violin</h2>
+
+<p class="item-intro text-muted">Starting Early for lifelong skills.</p>
+<img alt="" class="img-responsive img-centered" src="img/portfolio/student-violin.jpg" />
+<p><a href="//designmodo.com/startup/?u=787">Startup Framework</a> Using proven methods, students excel at learning the basics, as well as creative input and the ability to accel at theor chosen instrument as well as other areas of life.<br />
+<br />
+You can preview Startup Framework <a href="//designmodo.com/startup/?u=787">here</a>.</p>
+
+<ul class="list-inline">
+	<li>Date: 2014-07-06</li>
+	<li>Client: <a href="#">Violin Youth</a></li>
+	<li>Category: Violin</li>
+</ul>
+<button class="btn btn-primary" data-dismiss="modal" type="button">Close project</button></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="portfolio-modal modal fade" id="portfolioModal3" role="dialog" tabindex="-1">
+<div class="modal-content">
+<div class="close-modal" data-dismiss="modal">
+<div class="lr">
+<div class="rl"></div>
+</div>
+</div>
+
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2">
+<div class="modal-body">
+<h2>Piano</h2>
+
+<p class="item-intro text-muted">Piano lessons are geared to the students abilities.</p>
+<img alt="" class="img-responsive img-centered" src="img/portfolio/student-piano.jpg" />
+<p>Piano skills are nurtured allowing talent to florish <a href="//www.behance.net/MathavanJaya">Mathavan</a>. Quality instruments bring out the nuances of feeling the keys as well as developing an ear and feeling of sound itself.<br />
+<br />
+You can download the PSD template in this portfolio sample item at <a href="freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.</p>
+
+<ul class="list-inline">
+	<li>Date: 2014-07-07</li>
+	<li>Client: <a href="#">Piano Youth</a></li>
+	<li>Category: Piano</li>
+</ul>
+<button class="btn btn-primary" data-dismiss="modal" type="button">Close project</button></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="portfolio-modal modal fade" id="portfolioModal5" role="dialog" tabindex="-1">
+<div class="modal-content">
+<div class="close-modal" data-dismiss="modal">
+<div class="lr">
+<div class="rl"></div>
+</div>
+</div>
+
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2">
+<div class="modal-body">
+<h2>Advanced Violin</h2>
+
+<p class="item-intro text-muted">Advanced students contune to develop.</p>
+<img alt="" class="img-responsive img-centered" src="img/portfolio/violin-matthew.jpg" />
+<p>Advanced students are instructed with challenges and lessons to bring out maturing talent.<br />
+<br />
+Seeing our students play is exciting, hearing them play is satisfying to the ear. <a href="//freebiesxpress.com/gallery/golden-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
+
+<ul class="list-inline">
+	<li>Date: 2014-07-09</li>
+	<li>Client: <a href="#">Advanced Violin</a></li>
+	<li>Category: Violin</li>
+</ul>
+<button class="btn btn-primary" data-dismiss="modal" type="button">Close project</button></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- jQuery --><script src="http://localhost:1313/js/jquery.js"></script><!-- Bootstrap Core JavaScript --><script src="http://localhost:1313/js/bootstrap.min.js"></script><!-- Plugin JavaScript --><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script><script src="http://localhost:1313/js/classie.js"></script><script src="http://localhost:1313/js/cbpAnimatedHeader.js"></script><!-- Contact Form JavaScript --><script src="http://localhost:1313/js/jqBootstrapValidation.js"></script><script src="http://localhost:1313/js/contact_me.js"></script><!-- Custom Theme JavaScript --><script src="http://localhost:1313/js/agency.js"></script><script data-no-instant>document.write('<script src="/livereload.js?mindelay=10"></' + 'script>')</script></body>
+<script>
+var _prum = [['id', '56830916abe53d991b718593'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+</html>
